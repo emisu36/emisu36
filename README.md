@@ -1,4 +1,6 @@
-### Hi! I am Emily (Ping-Jen) Su. A third year student at University of Toronto.
+### Hi! I am Ping-Jen (Emily) Su. 
+
+A third year student at University of Toronto. Currently double majoring in Cognitive Science and Statistics.
 
 <!--
 **emisu36/emisu36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
